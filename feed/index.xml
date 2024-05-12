@@ -12,13 +12,13 @@
 	<atom:link href="https://sameday.guru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sameday.guru/</link>
 	<description>Time-focused Design as a Service</description>
-	<lastBuildDate>Wed, 08 May 2024 11:13:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 May 2024 16:28:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://sameday.guru/wp-content/uploads/2024/04/cropped-favicon-black-32x32.png</url>
