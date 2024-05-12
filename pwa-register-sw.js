@@ -1,4 +1,4 @@
-                                 var swsource = "https://samedayguru.local/pwa-sw.js";                                          
+                                 var swsource = "https://sameday.guru/pwa-sw.js";                                          
                                                                   
               function PWAforwpreadCookie(name) {
                   var nameEQ = name + "=";
@@ -12,7 +12,7 @@
               }
 			         if("serviceWorker" in navigator) {
                                      window.addEventListener('load', function() {			         		
-			                navigator.serviceWorker.register(swsource, {scope: 'https://samedayguru.local/'}).then(function(reg){                                                                                        
+			                navigator.serviceWorker.register(swsource, {scope: 'https://sameday.guru/'}).then(function(reg){                                                                                        
 			                    console.log('Congratulations!!Service Worker Registered ServiceWorker scope: ', reg.scope);
                                                                                                                     
 			                }).catch(function(err) {

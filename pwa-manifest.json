@@ -4,31 +4,31 @@
     "description": "Time-focused Design as a Service",
     "icons": [
         {
-            "src": "https:\/\/samedayguru.local\/wp-content\/uploads\/favicon-black-1.png",
+            "src": "https:\/\/sameday.guru\/wp-content\/uploads\/favicon-black-1.png",
             "sizes": "192x192",
             "type": "image\/png",
             "purpose": "any"
         },
         {
-            "src": "https:\/\/samedayguru.local\/wp-content\/uploads\/favicon-black-1.png",
+            "src": "https:\/\/sameday.guru\/wp-content\/uploads\/favicon-black-1.png",
             "sizes": "192x192",
             "type": "image\/png",
             "purpose": "maskable"
         },
         {
-            "src": "https:\/\/samedayguru.local\/wp-content\/uploads\/favicon-black-1.png",
+            "src": "https:\/\/sameday.guru\/wp-content\/uploads\/favicon-black-1.png",
             "sizes": "512x512",
             "type": "image\/png",
             "purpose": "any"
         },
         {
-            "src": "https:\/\/samedayguru.local\/wp-content\/uploads\/favicon-black-1.png",
+            "src": "https:\/\/sameday.guru\/wp-content\/uploads\/favicon-black-1.png",
             "sizes": "512x512",
             "type": "image\/png",
             "purpose": "maskable"
         },
         {
-            "src": "https:\/\/samedayguru.local\/wp-content\/uploads\/favicon-black-1.png",
+            "src": "https:\/\/sameday.guru\/wp-content\/uploads\/favicon-black-1.png",
             "sizes": "512x512",
             "type": "image\/png",
             "purpose": "monochrome"
@@ -46,6 +46,6 @@
     "theme_color": "#D5E0EB",
     "display": "standalone",
     "orientation": "portrait",
-    "start_url": "https:\/\/samedayguru.local\/",
-    "scope": "https:\/\/samedayguru.local\/"
+    "start_url": "https:\/\/sameday.guru\/",
+    "scope": "https:\/\/sameday.guru\/"
 }

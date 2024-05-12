@@ -1,50 +1,50 @@
 const CACHE_VERSION = '1.7.69.4';
 
 const BASE_CACHE_FILES = [
-    'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
-'https://samedayguru.local/wp-content/uploads/favicon-black-1.png',
+    'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
+'https://sameday.guru/wp-content/uploads/favicon-black-1.png',
 '',
 
 ];
 
 const OFFLINE_CACHE_FILES = [
-     'https://samedayguru.local/',
+     'https://sameday.guru/',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    'https://samedayguru.local/',
+    'https://sameday.guru/',
 ];
 
-const OFFLINE_PAGE = 'https://samedayguru.local/';
-const NOT_FOUND_PAGE = 'https://samedayguru.local/';
+const OFFLINE_PAGE = 'https://sameday.guru/';
+const NOT_FOUND_PAGE = 'https://sameday.guru/';
 
 const CACHE_VERSIONS = {
     content: 'content-v' + CACHE_VERSION,
@@ -72,7 +72,7 @@ const CACHE_STRATEGY = {
 
 const CACHE_BLACKLIST =  [
 //    (str) => {
-//        return !str.includes('/wp-admin/') || !str.startsWith('https://samedayguru.local//wp-admin/');
+//        return !str.includes('/wp-admin/') || !str.startsWith('https://sameday.guru//wp-admin/');
 //    },
 ];
 const neverCacheUrls = [/\/wp-admin/,/\/wp-login/,/preview=true/,/\/cart/,/ajax/,/login/,];
